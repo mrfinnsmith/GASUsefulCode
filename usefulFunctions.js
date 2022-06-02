@@ -9,7 +9,6 @@
  */
 
 function getSheetById(spreadsheet, targetSheetId) {
-  spreadsheet
   let targetSheet;
 
   let sheets = spreadsheet.getSheets();
